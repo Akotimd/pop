@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
         //TIP Нажмите <shortcut actionId="ShowIntentionActions"/>, когда курсор находится на подсвеченном тексте,
         // чтобы увидеть предложения IntelliJ IDEA по исправлению.
-        System.out.print("Hello and welcome!");
+        System.out.print("Добро Пожаловать!");
 
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 7; i++) {
             //TIP Нажмите <shortcut actionId="Debug"/>, чтобы начать отладку кода. Мы установили одну <icon src="AllIcons.Debugger.Db_set_breakpoint"/> точку останова
             // для вас, но вы всегда можете добавить больше, нажав <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
