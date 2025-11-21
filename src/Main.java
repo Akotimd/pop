@@ -4,6 +4,7 @@ public class Main {
         System.out.println("hello mir!");
         System.out.print("你好世界");
         System.out.print("\n");
+        System.out.println("Добро Пожаловать!");
 
         for (int i = 1; i <= 7; i++) {
             System.out.println("i = " + i);
